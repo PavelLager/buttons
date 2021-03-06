@@ -1,0 +1,11 @@
+body {
+    display: flex;
+}
+
+.submit {
+    width: 60px;
+    height: 60px;
+    background-color: blue;
+    margin-right: 8px;
+}
+
